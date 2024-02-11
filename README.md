@@ -5,3 +5,5 @@ Each car company in the database is defined by its manufactured cars, the name o
 Each company has four of its manufactured cars in the database (http://localhost:8000/companies/(1 – 4)/cars).
 Each car is further defined by its specifications like Engine, Transmission, Drivetrain and price (http://localhost:8000/companies/(1 – 4)/cars/(1 - 4)).
 The data returned from the web service routes is in JSON form. 
+
+Author: Parampuneet Kaur Thind (Param)
